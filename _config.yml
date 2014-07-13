@@ -1,4 +1,16 @@
 # Dependencies
 markdown:         kramdown
 
+# Setup
+author:
+  name:           "Openstax"
+  url:            http://cnx.org
+
+
+title:            "Openstax Concepts of Biology"
+
+# Custom vars
+version:          8.39
+origin:           http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@8.39
+
 bookviewer:       http://philschatz.com/book-viewer
