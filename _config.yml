@@ -1,16 +1,24 @@
+
 # Dependencies
 markdown:         kramdown
 
+# Permalinks
+#permalink:        pretty
+
 # Setup
+title:            'Concepts of Biology'
+tagline:          'from http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@9.6 (CC-BY)'
+url:              https://github.com/philschatz/biology-concepts-book
+origin:           http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@9.6
+
 author:
-  name:           "Openstax"
-  url:            http://cnx.org
+  name:           'Openstax'
+  url:            https://github.com/openstax
 
-
-title:            "Openstax Concepts of Biology"
+paginate:         5
 
 # Custom vars
-version:          8.39
-origin:           http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@8.39
+version:          9.6
 
-bookviewer:       http://philschatz.com/book-viewer
+bookviewer:       /book-viewer
+
