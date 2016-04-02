@@ -139,5 +139,7 @@ Concepts of Biology is intended for the introductory biology course for non-scie
         2.  [Threats to Biodiversity](contents/m45574.md)
         3.  [Preserving Biodiversity](contents/m45573.md)
 
-8.  {: .appendix} [Appendix](contents/m46075.md)
+8.  {: .appendix} [The Periodic Table of Elements](contents/m46075.md)
+9.  {: .appendix} [Geological Time](contents/m60098.md)
+10. {: .appendix} [Measurements and the Metric System](contents/m60099.md)
 
