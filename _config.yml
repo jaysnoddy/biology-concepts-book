@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Concepts of Biology'
-tagline:          'from http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@9.25 (CC-BY)'
+tagline:          'from http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@9.39 (CC-BY)'
 url:              https://github.com/philschatz/biology-concepts-book
-origin:           http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@9.25
+origin:           http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@9.39
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          9.25
+version:          9.39
 
 bookviewer:       http://philschatz.com/book-viewer
 
