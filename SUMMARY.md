@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-<div data-type="abstract">
-Concepts of Biology is designed for the typical introductory biology course for nonmajors, covering standard scope and sequence requirements. The text includes interesting applications and conveys the major themes of biology, with content that is meaningful and easy to understand. The book is designed to demonstrate biology concepts and to promote scientific literacy.
-</div>
+<div data-type="abstract"></div>
 
 1.  {: .preface} [Preface](contents/m46159.md)
 2.  {: .part} Unit 1. The Cellular Foundation of Life
@@ -129,7 +127,7 @@ Concepts of Biology is designed for the typical introductory biology course for 
         4.  [Community Ecology](contents/m45555.md)
     
     2.  {: .chapter} [Ecosystems and the Biosphere](contents/m45557.md)
-        1.  [Energy Flow through Ecosystems](contents/m45558.md)
+        1.  [Waterford\'s Energy Flow through Ecosystems](contents/m45558.md)
         2.  [Biogeochemical Cycles](contents/m45559.md)
         3.  [Terrestrial Biomes](contents/m45560.md)
         4.  [Aquatic and Marine Biomes](contents/m45562.md)
