@@ -6,7 +6,7 @@ markdown:         kramdown
 #permalink:        pretty
 
 # Setup
-title:            'Concepts of Biology'
+title:            'Concepts of Biological Systems'
 tagline:          'from http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@12.1 (CC-BY)'
 url:              https://github.com/philschatz/biology-concepts-book
 origin:           http://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd@12.1
